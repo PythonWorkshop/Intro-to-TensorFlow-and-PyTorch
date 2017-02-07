@@ -1,0 +1,5 @@
+https://s3.amazonaws.com/pytorch/whl/torch-0.1.6.post22-cp35-cp35m-macosx_10_6_x86_64.whl
+jupyter
+torchvision
+pandas
+scikit-learn
